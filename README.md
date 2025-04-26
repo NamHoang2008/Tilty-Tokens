@@ -36,7 +36,7 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
 
 **GIẢI THÍCH:**
 
-![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/EXAMPLE1.gif)
+![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/gifs/EXAMPLE1.gif)
 
 ---
 
@@ -52,7 +52,7 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
 
 **GIẢI THÍCH:**
 
-![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/0426(1).gif)
+![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/gifs/EXAMPLE2.gif)
 
 ---
 
