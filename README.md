@@ -34,7 +34,7 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
 
 "DRURULD"
 
-**GIẢI THÍCH:**
+**MINH HOẠ:**
 
 ![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/gifs/EXAMPLE1.gif)
 
@@ -50,7 +50,7 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
 
 "RDLURDLUR"
 
-**GIẢI THÍCH:**
+**MINH HOẠ:**
 
 ![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/gifs/EXAMPLE2.gif)
 
