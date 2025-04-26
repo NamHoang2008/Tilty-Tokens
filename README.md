@@ -50,4 +50,10 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
 
 "RDLURDLUR"
 
+**GIẢI THÍCH:**
+
+![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/0426(1).gif)
+
+---
+
 
