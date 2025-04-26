@@ -19,4 +19,4 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
   Ví dụ 1:
   - INPUT: [['X','X','X','X','X','X','X'],['X','G','X','.','.','.','X'],['X','.','.','.','.','.','X'],['X','.','.','O','.','.','X'],['X','.','.','.','.','.','X'],['X','.','.','X','.','.','X'],['X','X','X','X','X','X','X']]
   - OUTPUT: "DRURULD"
-  - GIẢI THÍCH: 
+  - GIẢI THÍCH: ![](https://github.com/NamHoang2008/Tilty-Tokens/blob/main/EXAMPLE1.gif)
