@@ -5,7 +5,7 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
 
 - VẤN ĐỀ:
 
-  Cho một ma trận gồm 7 x 7 ô, ma trận con 5 x 5 được bao quanh bởi bức tường. Trong ma trận con, gồm có:
+  Cho một ma trận gồm 7 x 7 ô, ma trận con 5 x 5 được bao quanh bởi bức tường. Trong ma trận, gồm có:
   - `'.'` - Ô trống.
   - `'X'` - Bức tường.
   - `'O'` - Lối thoát
