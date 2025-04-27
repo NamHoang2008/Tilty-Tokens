@@ -21,6 +21,7 @@ Game này được tạo ra bởi tbradm. Bạn có thể chơi game này trên 
   **Hãy in ra `Bất kỳ` nước đi ngắn nhất nào để đưa hết tất cả `Xu xanh lá` vào `Lối thoát`.**
 
   - Một nước đi không hợp lí nếu đưa `Xu xanh nước` vào `Lối thoát`.
+  - Ta chắc chắn `luôn luôn` tồn tại cách giải cho vấn đề.
   
 ---
 
